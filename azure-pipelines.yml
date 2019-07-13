@@ -6,7 +6,7 @@ pool:
 variables:
   buildConfiguration: 'Release'
   wwwrootDirectory: 'Tailspin.SpaceGame.Web/wwwroot'
-  dotnetSdkVerison: '2.1.505'
+  dotnetSdkVersion: '2.1.505'
 
 steps:
 - task: DotNetCoreInstaller@0
